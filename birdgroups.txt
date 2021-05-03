@@ -1,0 +1,54 @@
+c("Fowl (includes water and land)","Loons, Grebes, Cormorants, Pelicans, Herons, Egrets, Ibis","Buteos, Accipiters, Falcons","Rails, Coots, Cranes, Plovers, Sandpipers","Gulls, Terns, Pigeons, Doves","Roadrunners, Owls, Swifts, Hummingbirds","Kingfishers, Woodpeckers, Parakeets","Flycatchers, Shrikes, Vireos, Corvids","Swallows, Chickadees, Titmice, Nuthatches, Wrens","Gnatcatchers, Kinglets, Bluebirds, Thrushes, Thrashers, Mockingbirds","Starlings, Pipits, Waxwings, Warblers","Sparrows, Towhees, Cardinals","Blackbirds, Finches, Weaverfinches")
+
+1
+Fowl (includes water and land)
+c("Black-bellied Whistling-Duck","Greater White-fronted Goose","Snow Goose","Ross's Goose","Canada Goose","Mute Swan","Wood Duck","Gadwall","American Wigeon","Mallard","Mottled Duck","Blue-winged Teal","Cinnamon Teal","Northern Shoveler","Northern Pintail","Green-winged Teal","Canvasback","Redhead","Ring-necked Duck","Greater Scaup","Lesser Scaup","Bufflehead","Common Goldeneye","Hooded Merganser","Common Merganser","Red-breasted Merganser","Ruddy Duck","Scaled Quail","Gambel's Quail","Northern Bobwhite","Wild Turkey")
+
+2
+Loons, Grebes, Cormorants, Pelicans, Herons, Egrets, Ibis
+c("Common Loon","Least Grebe","Pied-billed Grebe","Horned Grebe","Red-necked Grebe","Eared Grebe","Neotropic Cormorant","Double-crested Cormorant","Anhinga","American White Pelican","Brown Pelican","Great Blue Heron","Great Egret","Snowy Egret","Little Blue Heron","Tricolored Heron","Cattle Egret","Green Heron","Black-crowned Night-Heron","Yellow-crowned Night-Heron","White Ibis","White-faced Ibis","Roseate Spoonbill")
+
+3
+Buteos, Accipiters, Falcons
+c("Black Vulture","Turkey Vulture","Osprey","Northern Harrier","Sharp-shinned Hawk","Cooper's Hawk","Bald Eagle","Harris's Hawk","Red-shouldered Hawk","Red-tailed Hawk","Ferruginous Hawk","Crested Caracara","American Kestrel","Merlin","Peregrine Falcon","Prairie Falcon")
+
+4
+Rails, Coots, Cranes, Plovers, Sandpipers
+c("Virginia Rail","Sora","Common Gallinule","American Coot","Sandhill Crane","Black-necked Stilt","American Avocet","Black-bellied Plover","Semipalmated Plover","Killdeer","Greater/Lesser Yellowlegs","Spotted Sandpiper","Solitary Sandpiper","Willet","Ruddy Turnstone","Sanderling","Western Sandpiper","Least Sandpiper","Dunlin","Short-billed/Long-billed Dowitcher","Wilson's Snipe")
+
+5
+Gulls, Terns, Pigeons, Doves
+c("Laughing Gull","Franklin's Gull","Bonaparte's Gull","Ring-billed Gull","California Gull","Herring Gull","Lesser Black-backed Gull","Caspian Tern","Royal Tern","Forster's Tern","Black Skimmer","Rock Pigeon","Eurasian Collared-Dove","Inca Dove","Common Ground-Dove","White-winged Dove","Mourning Dove")
+
+6
+Roadrunners, Owls, Swifts, Hummingbirds
+c("Greater Roadrunner","Barn Owl","Eastern Screech-Owl","Great Horned Owl","Barred Owl","Long-eared Owl","Common Pauraque","White-throated Swift","Anna's Hummingbird","Broad-tailed Hummingbird","Rufous Hummingbird")
+
+7
+Kingfishers, Woodpeckers, Parakeets
+c("Ringed Kingfisher","Belted Kingfisher","Green Kingfisher","Golden-fronted Woodpecker","Acorn Woodpecker","Red-bellied Woodpecker","Yellow-bellied Sapsucker","Ladder-backed Woodpecker","Downy Woodpecker","Northern Flicker","Pileated Woodpecker","Monk Parakeet")
+
+8
+Flycatchers, Shrikes, Vireos, Corvids
+c("Eastern Phoebe","Black Phoebe","Say's Phoebe","Vermilion Flycatcher","yellow-bellied kingbird sp.","Scissor-tailed Flycatcher","Loggerhead Shrike","White-eyed Vireo","Blue-headed Vireo","Blue Jay","Western Scrub-Jay","American Crow","Common Raven")
+
+9
+Swallows, Chickadees, Titmice, Nuthatches, Wrens
+c("Tree Swallow","Cliff/Cave Swallow","Carolina Chickadee","Tufted Titmouse","Black-crested Titmouse","Verdin","Red-breasted Nuthatch","White-breasted Nuthatch","Brown Creeper","Rock Wren","Canyon Wren","House Wren","Winter Wren","Sedge Wren","Marsh Wren","Carolina Wren","Bewick's Wren","Cactus Wren")
+
+10
+Gnatcatchers, Kinglets, Bluebirds, Thrushes, Thrashers, Mockingbirds
+c("Blue-gray Gnatcatcher","Golden-crowned Kinglet","Ruby-crowned Kinglet","Eastern Bluebird","Western Bluebird","Hermit Thrush","American Robin","Gray Catbird","Curve-billed Thrasher","Brown Thrasher","Long-billed Thrasher","Crissal Thrasher","Northern Mockingbird")
+
+11
+Starlings, Pipits, Waxwings, Warblers
+c("European Starling","American Pipit","Sprague's Pipit","Cedar Waxwing","Phainopepla","Black-and-white Warbler","Orange-crowned Warbler","Common Yellowthroat","Yellow Warbler","Pine Warbler","Yellow-rumped Warbler")
+
+12
+Sparrows, Towhees, Cardinals
+c("Grasshopper Sparrow","Le Conte's Sparrow","Seaside Sparrow","Chipping Sparrow","Black-chinned Sparrow","Brewer's Sparrow","Field Sparrow","Black-throated Sparrow","Lark Sparrow","Lark Bunting","Fox Sparrow","Dark-eyed Junco","White-crowned Sparrow","Harris's Sparrow","White-throated Sparrow","Vesper Sparrow","Savannah Sparrow","Song Sparrow","Lincoln's Sparrow","Swamp Sparrow","Rufous-crowned Sparrow","Canyon Towhee","Green-tailed Towhee","Spotted Towhee","Eastern Towhee","Pyrrhuloxia","Northern Cardinal")
+
+13
+Blackbirds, Finches, Weaverfinches
+c("Red-winged Blackbird","Western/Eastern Meadowlark","Yellow-headed Blackbird","Rusty Blackbird","Brewer's Blackbird","Common Grackle","Boat-tailed Grackle","Great-tailed Grackle","Brown-headed Cowbird","Hooded Oriole","House Finch","Pine Siskin","Lesser Goldfinch","American Goldfinch","House Sparrow")
+
